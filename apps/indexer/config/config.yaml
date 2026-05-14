@@ -4,10 +4,10 @@ Server:
   Port: 8081
 
 Database:
-  Host: 
+  Host: biz.mewkes.cn
   Port: 5432
-  User: 
-  Password: 
+  User: postgres
+  Password: 5LHNYLCFfJwEpThB
   Name: metaland
   SSLMode: disable
   MaxOpenConns: 25
