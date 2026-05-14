@@ -16,8 +16,8 @@ Auth:
 Database:
   Host: biz.mewkes.cn
   Port: 5432
-  User: 
-  Password: 
+  User: postgres
+  Password: 5LHNYLCFfJwEpThB
   Name: metaland
   SSLMode: disable
   MaxOpenConns: 50
@@ -51,14 +51,14 @@ Storage:
   CDNDomain: https://assets.coinroll.io
 
 # 签名私钥 (用于生成合约签名)
-SignerPrivateKey: 
+SignerPrivateKey: c3403525339818ca6d633b409c2f8e31d24250b303f97311b3e2b3bc73516c1f
 
 Cos:
-  SecretID: ""
-  SecretKey: ""
-  Bucket: ""
-  Region: ""
-  AppID: ""
+  SecretID: "AKIDxIeC3Oh4Pj0Jb3AOcxWCJOQVrFc3764r"
+  SecretKey: "u7NB5ZxEWfbLvUwT3pT9MrOqAMYhuCXx"
+  Bucket: "metaland-1389986750"
+  Region: "ap-shanghai"
+  AppID: "1389986750"
   Domain: "http://upload.metanode.tech"  # 可选，自定义域名
 
   
