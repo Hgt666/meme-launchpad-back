@@ -1,0 +1,14 @@
+# 忽略配置文件（防止密钥上传）
+api/etc/*.yaml
+api/etc/*.yml
+indexer/config/
+
+# 编译产物
+bin/
+*.exe
+
+# 依赖
+vendor/
+
+# 日志
+*.log
